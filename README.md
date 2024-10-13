@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ’’’
 
-[_AHAMEED_]
+[_KALYAN_]
 
 
 ![20200808_160757](https://github.com/itzalif007/itzalif007/blob/8396f30838113f4ee5ceef40639afe6f420bef4e/t.gif)
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![20200808_160757](https://github.com/itzalif007/itzalif007/blob/acbd8bde4cacbc53aaab3ec613696c4e86c3fa70/Screenshot_2023_0509_040909.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Ahameed</h1>
+<h1 align="center">Hi 👋, I'm KALYAN</h1>
 <h3 align="center"> 🥰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzalif007&label=Profile%20views&color=0e75b6&style=flat" alt="itzalif007" /> </p>
